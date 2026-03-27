@@ -20,7 +20,7 @@
 - **I - Independent** (Não deve depender do resultado de outro teste para sua realização)
 - **R - Repeatable** (Devem ser previsíveis, produzir o mesmo resultado toda vez que rodar, uso  de injeção de dependência e simulações de ambientes para realizar o teste)
 - **S - Self Validating** (Os testes devem detectar automaticamente se falharam ou passaram, sem interpretação externa.)
-- **T - Timely/Thorough** (Realizar os testes após ou junto com o desenvolvimento do programa. não depois/, além disso, devem cobrir casos diversos, não apenas o caso ideal)
+- **T - Timely/Thorough** (Realizar os testes antes ou junto com o desenvolvimento do programa. não depois/, além disso, devem cobrir casos diversos, não apenas o caso ideal)
 
 Seguindo esses princípios os testes se tornam mais confiáveis e fáceis de manter/modificar.
 
