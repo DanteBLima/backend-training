@@ -49,7 +49,6 @@ O TDD segue três leis principais:
 - Maior confiabilidade, visto que ao realizar alguma alteração ou feature nova, o teste vai dizer se está funcionando corretamente ou não, diminuindo o medo de quebrar alguma coisa.
 - Ajuda como forma de documentação, pois como os testes devem seguir a lógica de negócio, ajuda a entender o comportamento daquela parte do código.
 - Desacoplamento, pois ao desenvolver pequenas peças do código por vez, e seguindo o princípio da Independência do FIRST, os códigos se tornam mais escaláveis pois diminui o acoplamento geral.
-- .
 
 ---
 
